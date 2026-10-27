@@ -1,6 +1,28 @@
 {
   "format": 1,
-  "games": [],
+  "games": [
+    {
+      "id": "scrapfall",
+      "notes": [
+        {
+          "version": "0.10.0",
+          "date": "2026-10-27",
+          "title": "First release on HELIX",
+          "body": "Chassis selection, shared weapon heat, weapon sets, burn and slow, drones, new enemy roles, elites, danger levels 0-5, unlocks, audio, settings and a pause menu. The economy was rebalanced: fewer but tougher enemies, scarcer scrap, slower levels and much stronger bosses."
+        }
+      ],
+      "name": "SCRAPFALL",
+      "tagline": "Survive. Loot. Upgrade. Repeat.",
+      "description": "A scrapyard survival roguelite. Pick a chassis, survive 100 stages of corrupted scrap creatures while your weapons fire on their own, and turn the scrap they drop into a build. A boss waits every 20 stages.",
+      "exe": "scrapfall.exe",
+      "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=80c3cc302c",
+      "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=a29ec1e673",
+      "version": "0.10.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.10.0/scrapfall-0.10.0.zip",
+      "sha256": "4b79879a366c02fcdf81f1d9242506aed8697e45596692f2e0b4238cdbda7ee0",
+      "size": 2693905
+    }
+  ],
   "launcher": {
     "version": "1.0.0",
     "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher-v1.0.0/launcher-1.0.0.zip",
