@@ -24,9 +24,9 @@
     }
   ],
   "launcher": {
-    "version": "1.0.1",
-    "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher-v1.0.1/launcher-1.0.1.zip",
-    "sha256": "ce8f644e2dba45dfb00098f45f0b1f058c6faad34f9979526e0c75c440049914",
-    "size": 1794055
+    "version": "1.0.2",
+    "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher-v1.0.2/launcher-1.0.2.zip",
+    "sha256": "25651b39bb3869d1d2e082b0663044c72d47f103d1a3bd653f9d8d637081485a",
+    "size": 1794716
   }
 }
