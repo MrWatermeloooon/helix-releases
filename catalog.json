@@ -1,4 +1,10 @@
 {
   "format": 1,
-  "games": []
+  "games": [],
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher-v1.0.0/launcher-1.0.0.zip",
+    "sha256": "3163a6e209664099a0fb7557908c9f5c5fdb2fbbc44331e6e593e85b120c07d6",
+    "size": 1792914
+  }
 }
