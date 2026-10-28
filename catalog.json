@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.10.3",
+          "date": "2026-10-27",
+          "title": "Enemies that match your build",
+          "body": "Enemies and bosses now read your build: the stronger your weapons and stats, the tougher they get, so no build can one-shot everything or melt a boss in seconds. Bosses always take a real fight (35 to 55 seconds of your damage) and each one hits harder and attacks faster than the last. Stats have diminishing returns past a soft cap (shown in gold) and lower maximums, items have stack limits, and harvesting grows slower. Overheating now works properly: the bar drains all the way to empty at your Cooling rate before heat builds again, with the heat bonus off until then."
+        },
+        {
           "version": "0.10.2",
           "date": "2026-10-27",
           "title": "Shifting scrapyard",
@@ -29,10 +35,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=80c3cc302c",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=a29ec1e673",
-      "version": "0.10.2",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.10.2/scrapfall-0.10.2.zip",
-      "sha256": "c330131674eb9c187a55722b032526977ac0e9fc42110c39aa64057e2e0c1287",
-      "size": 2703095
+      "version": "0.10.3",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.10.3/scrapfall-0.10.3.zip",
+      "sha256": "7b90774f723ba5f3f7e8e3faaee3c5e718d8881404deda6b677404289db18760",
+      "size": 2705086
     }
   ],
   "launcher": {
