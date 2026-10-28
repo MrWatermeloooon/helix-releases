@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.10.2",
+          "date": "2026-10-27",
+          "title": "Shifting scrapyard",
+          "body": "The debris (crates, barrels, tires, rocks) now lands in new random spots at the start of every stage, so it keeps getting in your way, and later stages have a bit more of it."
+        },
+        {
           "version": "0.10.1",
           "date": "2026-10-27",
           "title": "Bosses, lightning and smarter enemies",
@@ -23,10 +29,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=80c3cc302c",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=a29ec1e673",
-      "version": "0.10.1",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.10.1/scrapfall-0.10.1.zip",
-      "sha256": "db20d29c9e68ab0e106cd2480a50e7775ccaf27dfcb2a0927cd82780db4348cd",
-      "size": 2702352
+      "version": "0.10.2",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.10.2/scrapfall-0.10.2.zip",
+      "sha256": "c330131674eb9c187a55722b032526977ac0e9fc42110c39aa64057e2e0c1287",
+      "size": 2703095
     }
   ],
   "launcher": {
