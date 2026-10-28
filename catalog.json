@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.10.1",
+          "date": "2026-10-27",
+          "title": "Bosses, lightning and smarter enemies",
+          "body": "Bosses now have a 60-second timer: kill them in time or the run is lost. Every boss you beat makes the following stages harder (x2, x3, ...) and 30 seconds longer, without paying more. Enemies get smarter as you go: they cut you off, surround you and lead their shots. New weapon: Storm Coil, chain lightning that jumps between enemies. 10 new items including the Piggy Bank (interest on your saved scrap). Hover your items and weapons in the shop to see what they do. Overheating now cancels the heat damage bonus until the bar is empty, and better items show up gradually instead of all at once."
+        },
+        {
           "version": "0.10.0",
           "date": "2026-10-27",
           "title": "First release on HELIX",
@@ -17,10 +23,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=80c3cc302c",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=a29ec1e673",
-      "version": "0.10.0",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.10.0/scrapfall-0.10.0.zip",
-      "sha256": "4b79879a366c02fcdf81f1d9242506aed8697e45596692f2e0b4238cdbda7ee0",
-      "size": 2693905
+      "version": "0.10.1",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.10.1/scrapfall-0.10.1.zip",
+      "sha256": "db20d29c9e68ab0e106cd2480a50e7775ccaf27dfcb2a0927cd82780db4348cd",
+      "size": 2702352
     }
   ],
   "launcher": {
