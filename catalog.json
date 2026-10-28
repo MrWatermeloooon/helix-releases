@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.11.0",
+          "date": "2026-10-27",
+          "title": "20-stage runs and difficulties",
+          "body": "Runs are now 20 stages with a boss on stage 20. Beat it to unlock the next difficulty (1 to 5), and every difficulty has its own, harder boss: Scrap Spider, Void Eye, Sludge King, Bone Crusher and Horned Overseer. Higher difficulties bring tougher, harder-hitting, smarter enemies, faster spawns, more elites and longer stages, while the shop and prices stay the same. Your unlocked danger levels carry over as difficulties."
+        },
+        {
           "version": "0.10.3",
           "date": "2026-10-27",
           "title": "Enemies that match your build",
@@ -35,10 +41,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=80c3cc302c",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=a29ec1e673",
-      "version": "0.10.3",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.10.3/scrapfall-0.10.3.zip",
-      "sha256": "7b90774f723ba5f3f7e8e3faaee3c5e718d8881404deda6b677404289db18760",
-      "size": 2705086
+      "version": "0.11.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.11.0/scrapfall-0.11.0.zip",
+      "sha256": "53de4eb6f7880c246d549fd03b1449ad9a7815c773b9d96b3f0313e2a7315af8",
+      "size": 2705005
     }
   ],
   "launcher": {
