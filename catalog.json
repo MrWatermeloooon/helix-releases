@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.12.0",
+          "date": "2026-10-28",
+          "title": "The new look",
+          "body": "All-new cartoon art: new chassis, enemies, all five bosses (Scrap Spider redrawn), floor and props. Redesigned UI with a new font, buttons and logo. Every item has its own icon, every weapon its own gun, and new projectiles and effects. Torch Sprayer now shoots fireballs and Frost Coil ice shards."
+        },
+        {
           "version": "0.11.0",
           "date": "2026-10-27",
           "title": "20-stage runs and difficulties",
@@ -41,10 +47,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=80c3cc302c",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=a29ec1e673",
-      "version": "0.11.0",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.11.0/scrapfall-0.11.0.zip",
-      "sha256": "53de4eb6f7880c246d549fd03b1449ad9a7815c773b9d96b3f0313e2a7315af8",
-      "size": 2705005
+      "version": "0.12.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.12.0/scrapfall-0.12.0.zip",
+      "sha256": "55626ab716cd8f41e80319bceed7a1b2ae71153a8dc27e0f73edc10e1e98822a",
+      "size": 13606969
     }
   ],
   "launcher": {
