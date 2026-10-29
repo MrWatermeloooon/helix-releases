@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.15.1",
+          "date": "2026-10-29",
+          "title": "Shield fix",
+          "body": "Bulwark's shield ring now sits around the character instead of below it."
+        },
+        {
           "version": "0.15.0",
           "date": "2026-10-28",
           "title": "Special abilities",
@@ -65,10 +71,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=b111c91d40",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=b5259ac578",
-      "version": "0.15.0",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.15.0/scrapfall-0.15.0.zip",
-      "sha256": "c64b666aefe473f069101507da2e417e1c0f3c57b03f7dfd5f2cb98251ee61fd",
-      "size": 13655145
+      "version": "0.15.1",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.15.1/scrapfall-0.15.1.zip",
+      "sha256": "5790a92aad71c5370b0a5f21514eb883123e05f4cae7e24900757ca7d27dc3e5",
+      "size": 13657908
     }
   ],
   "launcher": {
