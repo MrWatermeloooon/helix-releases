@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.15.0",
+          "date": "2026-10-28",
+          "title": "Special abilities",
+          "body": "Every chassis now has a special ability: Scavver gets bonus scrap every 25th kill, Bulwark's shield blocks a hit after 5s unharmed, Overclocker's overheats end in a fiery heat vent, Magnet fires a magnetic pulse every 6s that shoves enemies and bullets away, and Tinker drops a turret every 12s. Your playtime and achievements now show in the HELIX Launcher. Shop tooltips now hide when you move the mouse away. Pickup Range buffs are gone (Magnet Coil gives Scrap Gain instead)."
+        },
+        {
           "version": "0.14.0",
           "date": "2026-10-28",
           "title": "Achievements",
@@ -59,10 +65,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=b111c91d40",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=b5259ac578",
-      "version": "0.14.0",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.14.0/scrapfall-0.14.0.zip",
-      "sha256": "bb53000567a693b74e9a56a30f7a7b96dd6139eb370b17fef67af0eb600b1068",
-      "size": 13635678
+      "version": "0.15.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.15.0/scrapfall-0.15.0.zip",
+      "sha256": "c64b666aefe473f069101507da2e417e1c0f3c57b03f7dfd5f2cb98251ee61fd",
+      "size": 13655145
     }
   ],
   "launcher": {
