@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.13.0",
+          "date": "2026-10-28",
+          "title": "Tutorial and auto-save",
+          "body": "New TUTORIAL on the title screen: a guided practice run that teaches movement, auto-fire, scrap, spawn markers, heat, elites, level-ups and the shop. Progress now saves automatically as you play: unlocks like new chassis and difficulties are saved the moment you earn them, even if you quit mid-run. Your launcher name shows on the title and results screens."
+        },
+        {
           "version": "0.12.0",
           "date": "2026-10-28",
           "title": "The new look",
@@ -47,10 +53,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=b111c91d40",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=b5259ac578",
-      "version": "0.12.0",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.12.0/scrapfall-0.12.0.zip",
-      "sha256": "55626ab716cd8f41e80319bceed7a1b2ae71153a8dc27e0f73edc10e1e98822a",
-      "size": 13606969
+      "version": "0.13.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.13.0/scrapfall-0.13.0.zip",
+      "sha256": "fe0826e9cb0a77849c42a53a313fa8629c33a655dddb9ea31f599ae6580c51dd",
+      "size": 13615745
     }
   ],
   "launcher": {
