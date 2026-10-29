@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.14.0",
+          "date": "2026-10-28",
+          "title": "Achievements",
+          "body": "24 achievements to unlock, from your first kill to beating stage 20 on Difficulty 5. They pop up the moment you earn them and save automatically. See them all, with progress bars, from the new ACHIEVEMENTS button on the title screen. Your earlier kills, runs and best stage count toward them."
+        },
+        {
           "version": "0.13.0",
           "date": "2026-10-28",
           "title": "Tutorial and auto-save",
@@ -53,10 +59,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=b111c91d40",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=b5259ac578",
-      "version": "0.13.0",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.13.0/scrapfall-0.13.0.zip",
-      "sha256": "fe0826e9cb0a77849c42a53a313fa8629c33a655dddb9ea31f599ae6580c51dd",
-      "size": 13615745
+      "version": "0.14.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.14.0/scrapfall-0.14.0.zip",
+      "sha256": "bb53000567a693b74e9a56a30f7a7b96dd6139eb370b17fef67af0eb600b1068",
+      "size": 13635678
     }
   ],
   "launcher": {
