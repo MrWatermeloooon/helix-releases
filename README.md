@@ -26,6 +26,7 @@ next time you open it; you never need to download anything by hand again.
 | **Sentiment** | Marcel Taveau, Santiago Santos, James Van Aelst, Joseph Lodico, Lorenzo Marquez, Antique (Anthony Vitalei-D'Ermes), Olivia Vitalei-D'Ermes, Rawlings Oduwa |
 | **Infinite Trigger** | Antique (Anthony Vitalei-D'Ermes) |
 | **Sonic: Scuffed Edition** | Antique (Anthony Vitalei-D'Ermes) |
+| **Tempest Island** | Antique (Anthony Vitalei-D'Ermes) |
 
 ## Requirements
 
