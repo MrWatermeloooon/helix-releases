@@ -74,7 +74,11 @@
       "version": "0.15.1",
       "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.15.1/scrapfall-0.15.1.zip",
       "sha256": "5790a92aad71c5370b0a5f21514eb883123e05f4cae7e24900757ca7d27dc3e5",
-      "size": 13657908
+      "size": 13657908,
+      "about": "SCRAPFALL is a top-down survival roguelite set in a scrapyard overrun by living junk. You pick a robot chassis, each with its own special ability, and survive 20 stages of swarming enemies while your weapons aim and fire on their own.\n\nEvery enemy drops scrap: spend it in the shop between stages on weapons and items, combine weapons into stronger tiers, build weapon sets, and level up with Overclock upgrades. Watch your heat, dodge the hazards of each arena, and beat the boss on stage 20 within 60 seconds to unlock the next difficulty, each with a tougher boss and a new arena.\n\nFeatures: 5 chassis with special abilities, 11 weapons, 48 items, 5 bosses, 5 arenas with their own hazards, 24 achievements and a full tutorial.",
+      "creators": [
+        "brandinho"
+      ]
     }
   ],
   "launcher": {
