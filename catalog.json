@@ -85,6 +85,31 @@
       "creators": [
         "brandinho"
       ]
+    },
+    {
+      "id": "icarus-crispy-feathers",
+      "notes": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-30",
+          "title": "Icarus: Crispy Feathers",
+          "body": "Icarus joins the HELIX Launcher! A 3D platformer collectathon by Antique."
+        }
+      ],
+      "name": "Icarus: Crispy Feathers",
+      "tagline": "Flew too close to the sun. Time to get those feathers back.",
+      "description": "A 3D platformer collectathon. Icarus burned his wings right off, and his feathers are scattered across the world: collect them all and gain new movement abilities as you go.",
+      "about": "Icarus has flown too close to the sun and burned his wings right off! Now all of his feathers are scattered across the world, and he has to collect every last one of them all over again.\n\nIcarus: Crispy Feathers is a 3D platformer collectathon. Explore, hunt down feathers, and gain new movement abilities as you play.\n\nSee if you can get them all!",
+      "creators": [
+        "Antique (Anthony Vitalei-D'Ermes)"
+      ],
+      "exe": "Icarus  Crispy Feathers.exe",
+      "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/icarus-crispy-feathers/banner.png?v=a12539aa62",
+      "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/icarus-crispy-feathers/icon.png?v=4d369bd3ad",
+      "version": "1.0.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/icarus-crispy-feathers-v1.0.0/icarus-crispy-feathers-1.0.0.zip",
+      "sha256": "f61103606b794302d220f16c82403bdf6759f614bd21355a52213d9f7fb9cb7e",
+      "size": 38795460
     }
   ],
   "launcher": {
