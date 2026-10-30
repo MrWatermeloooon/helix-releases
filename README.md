@@ -6,11 +6,16 @@ automatically and updates itself.
 
 ## Install (once)
 
-1. Download **[HELIX-Launcher.zip](https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher/HELIX-Launcher.zip)**.
-2. Extract it to any folder (for example `Documents\HELIX Launcher`).
-3. Run `HELIXLauncher.exe`. Windows may show "Windows protected your PC" because the
-   launcher isn't code-signed: click **More info**, then **Run anyway**.
-4. Pick a game in the **Library** and press **Install**, then **Play**.
+1. Download **[HELIX-Launcher-Setup.exe](https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher/HELIX-Launcher-Setup.exe)** and run it. Windows may show "Windows
+   protected your PC" because the launcher isn't code-signed: click **More info**, then
+   **Run anyway**.
+2. Click through the setup. It installs the launcher for your Windows account (no admin
+   needed), adds Start menu and desktop shortcuts, and opens it.
+3. Pick a game in the **Library** and press **Install**, then **Play**.
+
+To remove it later, uninstall **HELIX Launcher** from Windows' Installed apps. Prefer no
+installer? [HELIX-Launcher.zip](https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher/HELIX-Launcher.zip) is the same launcher: extract it anywhere and run
+`HELIXLauncher.exe`.
 
 That's it. Whenever a game or the launcher is updated, the launcher downloads the update the
 next time you open it; you never need to download anything by hand again.
