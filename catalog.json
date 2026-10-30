@@ -247,6 +247,31 @@
       "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/sonic-scuffed-edition-v1.0.0/sonic-scuffed-edition-1.0.0.zip",
       "sha256": "7a36aa3dd35a8fcbafb15c8a24aae139a6394c3b53ca111fd3354266cc2ea219",
       "size": 509463782
+    },
+    {
+      "id": "tempest-island",
+      "notes": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-30",
+          "title": "Tempest Island",
+          "body": "Tempest Island joins the HELIX Launcher! A fast-paced adventure: complete quests, gear up and slay the dragon before the storm hits."
+        }
+      ],
+      "name": "Tempest Island",
+      "tagline": "Slay the dragon. Beat the storm.",
+      "description": "A fast-paced adventure: complete quests, gear up and slay the dragon terrorising Tempest Island, while a mysterious storm threatens to cut your travels short.",
+      "about": "In this fast-paced game, complete quests and get better gear to slay the dragon disrupting Tempest Island.\n\nLearn the mysteries of the island through villager dialogue and the secrets hidden around the map...\n\nBut careful: a mysterious storm can disrupt your travels. Are you fast enough?",
+      "creators": [
+        "Antique (Anthony Vitalei-D'Ermes)"
+      ],
+      "exe": "Project_E.exe",
+      "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/tempest-island/banner.png?v=e3e26313ed",
+      "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/tempest-island/icon.png?v=b74101d8b6",
+      "version": "1.0.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/tempest-island-v1.0.0/tempest-island-1.0.0.zip",
+      "sha256": "f415ae136c6ac791e69ab02ccbd0fbbffe31406b55d1f1bdc77f3b92fded173f",
+      "size": 930091463
     }
   ],
   "launcher": {
