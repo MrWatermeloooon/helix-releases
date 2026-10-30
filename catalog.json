@@ -197,6 +197,31 @@
       "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/sentiment-v1.0.0/sentiment-1.0.0.zip",
       "sha256": "06e264686732167d1a1be5fb7337f99b1fcdb445e8135436cbb6dbd7e0e647c6",
       "size": 486027089
+    },
+    {
+      "id": "infinite-trigger",
+      "notes": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-30",
+          "title": "Infinite Trigger",
+          "body": "Infinite Trigger joins the HELIX Launcher! A third or first person zombie shooter."
+        }
+      ],
+      "name": "Infinite Trigger",
+      "tagline": "Kill zombies. Cash in. Buy bigger guns.",
+      "description": "A zombie shooter you can play in third or first person. Kill zombies for money, then spend it in the shop on health kits and better guns.",
+      "about": "Infinite Trigger is a third (or first) person shooter. Kill zombies for money that you can spend in the shop on health kits and better guns!\n\nControls\nW A S D: move\nLeft Alt: switch between third and first person\nLeft Shift: dash\nB: buy menu\nM: music player\nEsc: settings",
+      "creators": [
+        "Antique (Anthony Vitalei-D'Ermes)"
+      ],
+      "exe": "InfiniteTrigger.exe",
+      "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/infinite-trigger/banner.png?v=78b3c6ca40",
+      "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/infinite-trigger/icon.png?v=426536cd2f",
+      "version": "1.0.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/infinite-trigger-v1.0.0/infinite-trigger-1.0.0.zip",
+      "sha256": "fb506187aaaad04cf6d3fbe6dbcd08c7fc71b8ccf98261cf0d4a5f8900f6c4af",
+      "size": 686099028
     }
   ],
   "launcher": {
