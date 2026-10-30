@@ -140,6 +140,31 @@
       "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/flush-you-v1.0.0/flush-you-1.0.0.zip",
       "sha256": "82b8b5ab6648deb1910d486a3aea6ad798dd58140bd08cd19ae72b34065153dd",
       "size": 412893151
+    },
+    {
+      "id": "ivendetta",
+      "notes": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-30",
+          "title": "IVendetta",
+          "body": "IVendetta joins the HELIX Launcher! A Doom-like arena shooter made in 30 hours for Gamerella 2025."
+        }
+      ],
+      "name": "IVendetta",
+      "tagline": "They stole your art. Show them a real piece of your work.",
+      "description": "A Doom-like arena shooter. Play as Nightshade, an artist whose work was stolen by an AI data center: blast its AI units with your creative tools, break into every area and destroy all the servers.",
+      "about": "You're an artist. Your art got stolen by an AI data center. Now you're going to show them a real piece of your work.\n\nIn this Doom-like arena shooter you play as Nightshade. Destroy every server in the data center and infect its database with colourful mayhem:\n- Pick up your next weapon... er, creative tool.\n- Obliterate all the AI units.\n- Unlock new areas of the data center.\n- Destroy all the servers!\n\nIVendetta was made in 30 hours for Gamerella 2025, on the theme \"I made this for you\". All the art was made by the team, mostly during the jam.",
+      "creators": [
+        "Antique (Anthony Vitalei-D'Ermes)"
+      ],
+      "exe": "IVendetta.exe",
+      "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/ivendetta/banner.png?v=243ed2c309",
+      "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/ivendetta/icon.png?v=dd001e3b83",
+      "version": "1.0.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/ivendetta-v1.0.0/ivendetta-1.0.0.zip",
+      "sha256": "c878b363c84a976e3c8bbf8942bc99bef1a79c8baf701c7cbb12aaf161ced399",
+      "size": 427236101
     }
   ],
   "launcher": {
