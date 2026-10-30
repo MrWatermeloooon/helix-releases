@@ -110,6 +110,36 @@
       "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/icarus-crispy-feathers-v1.0.0/icarus-crispy-feathers-1.0.0.zip",
       "sha256": "f61103606b794302d220f16c82403bdf6759f614bd21355a52213d9f7fb9cb7e",
       "size": 38795460
+    },
+    {
+      "id": "flush-you",
+      "notes": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-30",
+          "title": "Flush You",
+          "body": "Flush You joins the HELIX Launcher! A two-player fishy brawl made for Concordia's Cosmic Jam."
+        }
+      ],
+      "name": "Flush You",
+      "tagline": "A two-player fishy brawl. Whatever you do, don't get flushed.",
+      "description": "An arcade brawler for two players. Battle a friend while obstacles and toiletries rain down, grab power-ups for the upper hand, and be the last fish standing before the flush.",
+      "about": "Play against a friend in this arcade-style fishy brawl! Dodge the obstacles and toiletries falling from above, collect power-ups to get the advantage, and whatever you do, don't get flushed!\n\nFlush You was made for Concordia's Cosmic Jam by:\nJames Van Aelst: gameplay programming, UI programming, game design\nSantiago Santos: gameplay programming, UI programming, game design\nJoseph Lodico: gameplay programming\nAntique (Anthony Vitalei-D'Ermes): music and audio\nMark Benson Galvez: 3D art and illustration\nAlexandrine Beaulac: 3D art",
+      "creators": [
+        "James Van Aelst",
+        "Santiago Santos",
+        "Joseph Lodico",
+        "Antique (Anthony Vitalei-D'Ermes)",
+        "Mark Benson Galvez",
+        "Alexandrine Beaulac"
+      ],
+      "exe": "CosmicJam26.exe",
+      "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/flush-you/banner.png?v=17231aa186",
+      "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/flush-you/icon.png?v=da3e6af363",
+      "version": "1.0.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/flush-you-v1.0.0/flush-you-1.0.0.zip",
+      "sha256": "82b8b5ab6648deb1910d486a3aea6ad798dd58140bd08cd19ae72b34065153dd",
+      "size": 412893151
     }
   ],
   "launcher": {
