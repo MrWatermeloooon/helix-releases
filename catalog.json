@@ -165,6 +165,38 @@
       "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/ivendetta-v1.0.0/ivendetta-1.0.0.zip",
       "sha256": "c878b363c84a976e3c8bbf8942bc99bef1a79c8baf701c7cbb12aaf161ced399",
       "size": 427236101
+    },
+    {
+      "id": "sentiment",
+      "notes": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-30",
+          "title": "Sentiment",
+          "body": "Sentiment joins the HELIX Launcher! A psychological horror game made in 48 hours for the Montreal 2026 Behaviour Interactive Game Jam, winner of Best Audio and Participant's Pick."
+        }
+      ],
+      "name": "Sentiment",
+      "tagline": "You are not alone. Play with headphones.",
+      "description": "A psychological horror game about a dysfunctional family. You play as a little boy trying to take control of a situation far beyond him. Winner of Best Audio and Participant's Pick at the Behaviour Interactive Game Jam.",
+      "about": "Sentiment is a psychological horror game that delves into the themes of a dysfunctional family. You play as a little boy trying to take control of a situation that is far beyond him.\n\nIt is highly recommended to play with headphones!\n\nMade in 48 hours for the Montreal 2026 Behaviour Interactive Game Jam, on the theme \"You Are Not Alone\", where it won Best Audio and Participant's Pick.\n\nWolves of the Night (team 13):\nMarcel Taveau: game director\nSantiago Santos: gameplay, AI and UI programming, QA\nJames Van Aelst: gameplay programming, VFX, QA\nJoseph Lodico: environment modelling\nLorenzo Marquez: UI programming, voice acting\nAntique (Anthony Vitalei-D'Ermes): level design, music\nOlivia Vitalei-D'Ermes: art, character and environment modelling\nRawlings Oduwa: sound design, gameplay programming",
+      "creators": [
+        "Marcel Taveau",
+        "Santiago Santos",
+        "James Van Aelst",
+        "Joseph Lodico",
+        "Lorenzo Marquez",
+        "Antique (Anthony Vitalei-D'Ermes)",
+        "Olivia Vitalei-D'Ermes",
+        "Rawlings Oduwa"
+      ],
+      "exe": "BHVR_Jam_26.exe",
+      "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/sentiment/banner.png?v=d962a679d6",
+      "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/sentiment/icon.png?v=8edd651ce9",
+      "version": "1.0.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/sentiment-v1.0.0/sentiment-1.0.0.zip",
+      "sha256": "06e264686732167d1a1be5fb7337f99b1fcdb445e8135436cbb6dbd7e0e647c6",
+      "size": 486027089
     }
   ],
   "launcher": {
