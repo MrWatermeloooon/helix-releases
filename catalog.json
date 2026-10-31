@@ -5,6 +5,12 @@
       "id": "scrapfall",
       "notes": [
         {
+          "version": "0.18.0",
+          "date": "2026-10-31",
+          "title": "SCRAPFALL 0.18.0",
+          "body": "Controller support (Xbox, PlayStation, Switch) with button prompts. New settings: auto-pause when you alt-tab, V-sync, frame cap, Show FPS, rebindable keyboard controls and a Graphics API choice (Vulkan, DirectX 11, DirectX 12, OpenGL). Run History on the title screen. Report a bug from the title or pause menu. Now on Linux too."
+        },
+        {
           "version": "0.17.0",
           "date": "2026-10-30",
           "title": "SCRAPFALL 0.17.0",
@@ -83,10 +89,10 @@
       "exe": "scrapfall.exe",
       "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/banner.png?v=b111c91d40",
       "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/scrapfall/icon.png?v=b5259ac578",
-      "version": "0.17.0",
-      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.17.0/scrapfall-0.17.0.zip",
-      "sha256": "5a3eaf4a4a96a3415bfd7d983ee347b38161ecbc59929bf596141f3beb7bd7fa",
-      "size": 14974431,
+      "version": "0.18.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.18.0/scrapfall-0.18.0.zip",
+      "sha256": "011bf5905b3f2902120ba36b34a70ad605166d1d527c04ab556358316985d2b6",
+      "size": 15061724,
       "about": "SCRAPFALL is a top-down survival roguelite set in a scrapyard overrun by living junk. You pick a robot chassis, each with its own special ability, and survive 20 stages of swarming enemies while your weapons aim and fire on their own.\n\nEvery enemy drops scrap: spend it in the shop between stages on weapons and items, combine weapons into stronger tiers, build weapon sets, and level up with Overclock upgrades. Watch your heat, dodge the hazards of each arena, and beat the boss on stage 20 within 60 seconds to unlock the next difficulty, each with a tougher boss and a new arena.\n\nFeatures: 5 chassis with special abilities, 11 weapons, 48 items, 5 bosses, 5 arenas with their own hazards, 24 achievements and a full tutorial.",
       "creators": [
         "brandinho"
