@@ -96,7 +96,14 @@
       "about": "SCRAPFALL is a top-down survival roguelite set in a scrapyard overrun by living junk. You pick a robot chassis, each with its own special ability, and survive 20 stages of swarming enemies while your weapons aim and fire on their own.\n\nEvery enemy drops scrap: spend it in the shop between stages on weapons and items, combine weapons into stronger tiers, build weapon sets, and level up with Overclock upgrades. Watch your heat, dodge the hazards of each arena, and beat the boss on stage 20 within 60 seconds to unlock the next difficulty, each with a tougher boss and a new arena.\n\nFeatures: 5 chassis with special abilities, 11 weapons, 48 items, 5 bosses, 5 arenas with their own hazards, 24 achievements and a full tutorial.",
       "creators": [
         "brandinho"
-      ]
+      ],
+      "linux": {
+        "exe": "scrapfall",
+        "version": "0.18.0",
+        "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/scrapfall-v0.18.0/scrapfall-0.18.0-linux.zip",
+        "sha256": "0afbb2b1794c241531327ae2c12e0ce273154ec60786d29b5840cba7d18e40c9",
+        "size": 15522074
+      }
     },
     {
       "id": "icarus-crispy-feathers",
