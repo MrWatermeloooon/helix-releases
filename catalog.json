@@ -298,5 +298,11 @@
     "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher-v1.7.0/launcher-1.7.0.zip",
     "sha256": "c4627953431e56a1b7f15e83cdef6843382a38432d7837373189a6c0d01a2e06",
     "size": 2749146
+  },
+  "launcher_linux": {
+    "version": "1.7.0",
+    "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/launcher-v1.7.0/launcher-1.7.0-linux.zip",
+    "sha256": "ded639c59019cbd070b42e53bc8a4f9f1583daef0deaee82e59f12fe30c190c6",
+    "size": 3060102
   }
 }
