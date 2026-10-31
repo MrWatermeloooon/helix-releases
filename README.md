@@ -24,7 +24,7 @@ next time you open it; you never need to download anything by hand again.
 
 | Game | Made by | Linux |
 | --- | --- | --- |
-| **SCRAPFALL** | brandinho | - |
+| **SCRAPFALL** | brandinho | Yes |
 | **Icarus: Crispy Feathers** | Antique (Anthony Vitalei-D'Ermes) | - |
 | **Flush You** | James Van Aelst, Santiago Santos, Joseph Lodico, Antique (Anthony Vitalei-D'Ermes), Mark Benson Galvez, Alexandrine Beaulac | - |
 | **IVendetta** | Antique (Anthony Vitalei-D'Ermes) | - |
