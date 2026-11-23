@@ -291,6 +291,32 @@
       "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/tempest-island-v1.0.0/tempest-island-1.0.0.zip",
       "sha256": "f415ae136c6ac791e69ab02ccbd0fbbffe31406b55d1f1bdc77f3b92fded173f",
       "size": 930091463
+    },
+    {
+      "id": "untitled-horror",
+      "notes": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-23",
+          "title": "Experimental Alpha 0.1.0",
+          "body": "Initial Experimental Alpha release for multiplayer testing. Press ESC in-game to Host or Join Co-op (UDP 27015)."
+        }
+      ],
+      "name": "Untitled Horror",
+      "tagline": "Experimental Alpha - Co-op Survival Horror",
+      "description": "Early experimental alpha build of an untitled 1-4 player co-op zombie horror game on HELIX Engine. Explore a fog-choked graveyard and abandoned mine, repair generators, and survive together. Press ESC in-game to Host or Join co-op (UDP 27015).",
+      "about": "EXPERIMENTAL ALPHA - Early multiplayer test build (working title).\n\nExplore a dark graveyard and abandoned mine site with up to 4 players in co-op. Manage your flashlight, lean around cover, repair generators, and fight off undead waves driven by an AI Director.\n\nHow to test Multiplayer:\n1. Launch the game and press ESC to open the Co-op Menu.\n2. One player clicks HOST CO-OP (UDP :27015) and shares their IP (LAN, Tailscale/Radmin VPN, or port-forwarded UDP 27015).\n3. Friends enter the Host's IP and click JOIN CO-OP.\n\nControls: WASD Move | Shift Sprint | Ctrl/C Crouch | Q/E Lean | LMB Shoot | RMB Aim | R Reload | F Flashlight | G Interact/Revive | F11 Fullscreen | ESC Pause & Co-op Menu.",
+      "creators": [
+        "brandinho"
+      ],
+      "exe": "scary_game.exe",
+      "banner": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/untitled-horror/banner.png?v=f3188693c8",
+      "icon": "https://raw.githubusercontent.com/MrWatermeloooon/helix-releases/main/images/untitled-horror/icon.png?v=764b71fd75",
+      "version": "0.1.0",
+      "url": "https://github.com/MrWatermeloooon/helix-releases/releases/download/untitled-horror-v0.1.0/untitled-horror-0.1.0.zip",
+      "sha256": "3af6cdc8aa79585a8709f476a6dcdb0ee012ac2ef29a99e753452f6b7028cdff",
+      "size": 1068887515,
+      "badge": "EXPERIMENTAL ALPHA"
     }
   ],
   "launcher": {
